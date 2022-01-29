@@ -1,0 +1,32 @@
+{
+  "name": "crypto-js-base32",
+  "title": "crypto-js-base32",
+  "description": "JavaScript library of crypto standards. ",
+  "version": "1.0.0",
+  "homepage": "http://github.com/BrightX/crypto-js-base32",
+  "author": {
+    "name": "Bright Xu",
+    "url": "http://github.com/BrightX"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/BrightX/crypto-js-base32.git"
+  },
+  "bugs": {
+    "url": "http://github.com/BrightX/crypto-js-base32/issues"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "browser": {
+    "crypto": false
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "keywords": [
+    "security",
+    "crypto",
+    "CryptoJS",
+    "Base32"
+  ]
+}
