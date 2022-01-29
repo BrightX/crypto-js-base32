@@ -1,7 +1,7 @@
 {
   "name": "crypto-js-base32",
-  "title": "crypto-js-base32",
-  "description": "JavaScript library of crypto standards. ",
+  "title": "CryptoJS-Base32",
+  "description": "基于 CryptoJS 的 JavaScript Base32库。",
   "version": "1.0.0",
   "homepage": "http://github.com/BrightX/crypto-js-base32",
   "author": {
