@@ -1,10 +1,10 @@
 ;(function (root, factory) {
     if (typeof exports === "object") {
         // CommonJS
-        module.exports = exports = factory(require("./core"));
+        module.exports = exports = factory(require("crypto-js/core"));
     } else if (typeof define === "function" && define.amd) {
         // AMD
-        define(["./core"], factory);
+        define(["crypto-js/core"], factory);
     } else {
         // Global (browser)
         factory(root.CryptoJS);
